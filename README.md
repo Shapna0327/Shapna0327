@@ -15,7 +15,7 @@ I am a full-stack developer driven by a passion for crafting seamless and effici
 
 
 # GitHub Activities
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shapna0327&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shapna0327&theme=radical&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=Shapna0327&icon=9&color=10)](https://visitcount.itsvg.in)
 
 ## Socials:
