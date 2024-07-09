@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shapna G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 I am a full-stack developer driven by a passion for crafting seamless and efficient user experiences. My objective is to utilize my skills and knowledge to contribute to impactful projects and collaborate with like-minded professionals.
 
